@@ -1,0 +1,6 @@
+torch
+sentence-transformers
+faiss-gpu
+numpy
+fastapi
+uvicorn
