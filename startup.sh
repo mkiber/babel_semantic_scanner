@@ -21,3 +21,7 @@ echo "✅ Всё запущено! Логи доступны через:"
 echo "   tail -f scanner_output.log"
 echo "   tail -f scanner.log"
 tail -f scanner_output.log
+
+git clone https://github.com/mkiber/babel_semantic_scanner.git
+cd babel_semantic_scanner
+
